@@ -1,0 +1,23 @@
+{
+    "count": 3,
+    "products": [
+        {
+            "_id": "5dbdbf3f7742fc1fe53876a6",
+            "name": "The Alchemyst",
+            "author": "Paulo Cohelho",
+            "price": 12.99
+        },
+        {
+            "_id": "5dbdc05a7742fc1fe53876a7",
+            "name": "Romiland Rising",
+            "author": "Roland Nguyen",
+            "price": 25.99
+        },
+        {
+            "_id": "5dbdd12b5835082a0b9fb134",
+            "name": "Captain Moen",
+            "author": "Mark Nguyen",
+            "price": 20.99
+        }
+    ]
+}
