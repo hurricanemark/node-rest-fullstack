@@ -1,7 +1,0 @@
-{
-    "env": {
-        "MONGO_ATLAS_ADMIN_USER": "markn",
-        "MONGO_ATLAS_PASSWD": "markn123$",
-        "BASE_URL": "http://localhost:5009/"
-    }
-}
